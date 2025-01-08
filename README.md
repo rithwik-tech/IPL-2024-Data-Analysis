@@ -1,9 +1,4 @@
 # IPL-2024-Data-Analysis
-README Template for IPL Data Analysis
-markdown
-Copy code
-# IPL 2024 Data Analysis
-
 ## Overview
 This repository contains data analysis for IPL 2024. The project leverages data from IPL matches to uncover insights and trends. It includes visualizations, statistical analysis, and potential predictive modeling.
 
